@@ -24,19 +24,16 @@
 
 ### 📫 Connect with me
 <div align="left">
-  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="32" />
-  </a>
   <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="32" />
   </a>
   <a href="mailto:viniciussimonetti25@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/vinicius-simonetti-577611271" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-simonetti-577611271/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" />
   </a>
-  <a href="https://www.hackerrank.com/profile/SEU_USUARIO" target="_blank">
+  <a href="https://www.hackerrank.com/profile/viniciussimonet1"_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="32" />
   </a>
 </div>
@@ -51,7 +48,5 @@
 
 ---
 
-### 🐍 My contribution “snake”
-![snake gif](https://raw.githubusercontent.com/ViniciusSimonetti/ViniciusSimonetti/output/snake-dark.svg)
 
 ---
