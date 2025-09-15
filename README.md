@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Vinicius Simonetti and I'm a Fullstack Developer  from São Paulo, Brazil.</h2>
+<h2 align="center">Hi 👋! My name is Vinicius Simonetti and I'm a Fullstack Developer from São Paulo, Brazil.</h2>
 
 ###
 
@@ -20,13 +20,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
-###
+---
 
+### 📫 Connect with me
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="32" />
+  </a>
+  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="32" />
+  </a>
+  <a href="mailto:viniciussimonetti25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-simonetti-577611271" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="32" />
+  </a>
 </div>
 
-###
+---
+
+### ⚙️ GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSimonetti&show_icons=true&theme=dark&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSimonetti&layout=compact&theme=dark" height="150" />
+</div>
+
+---
+
+### 🐍 My contribution “snake”
+![snake gif](https://raw.githubusercontent.com/ViniciusSimonetti/ViniciusSimonetti/output/snake-dark.svg)
+
+---
